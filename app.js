@@ -66,8 +66,3 @@ app.listen(process.env.PORT || 3000, function(){
     console.log("Running");
      
 })
-
-
-//api key : 22350371bd66e44b6439c461a5a256dd-us8
-//audience id : f60a5dd023
-//https://calm-inlet-25885.herokuapp.com/
